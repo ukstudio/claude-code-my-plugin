@@ -8,6 +8,11 @@
       "name": "hello",
       "source": "./hello",
       "description": "sample plugin"
+    },
+    {
+      "name": "prd",
+      "source": "./prd",
+      "description": "PRD生成とそれの実装"
     }
   ]
 }
