@@ -1,0 +1,8 @@
+{
+  "name": "rails",
+  "description": "Rails開発用のコマンド群",
+  "version": "1.0.0",
+  "author": {
+    "name": "ukstudio"
+  }
+}
