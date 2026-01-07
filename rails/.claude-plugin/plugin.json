@@ -5,5 +5,8 @@
   "author": {
     "name": "ukstudio"
   },
-  "agents": "./agents/"
+  "agents": [
+    "./agents/rails-code-reviewer.md",
+    "./agents/rails-test-runner.md"
+  ]
 }
