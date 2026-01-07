@@ -1,0 +1,13 @@
+{
+  "name": "ukstudio",
+  "owner": {
+    "name": "ukstudio"
+  },
+  "plugins": [
+    {
+      "name": "hello",
+      "source": "./hello",
+      "description": "sample plugin"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-my-plugin",
+  "description": "my plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "ukstudio"
+  }
+}
