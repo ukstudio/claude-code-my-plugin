@@ -1,5 +1,5 @@
 {
-  "name": "PRD",
+  "name": "prd",
   "description": "PRDの生成とそれを元に実装を進めるコマンド郡",
   "version": "1.0.0",
   "author": {
