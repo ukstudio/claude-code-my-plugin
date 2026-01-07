@@ -29,7 +29,7 @@ AIエージェントはあなたがPRDに追加するコンテキストとトレ
 
 ## PRDの生成
 
-../templates/prd.md をテンプレートとして使用
+${CLAUDE_PLUGIN_ROOT}/templates/prd.md をテンプレートとして使用
 
 ### AIエージェントに渡すべき重要なコンテキスト
 
