@@ -1,0 +1,8 @@
+{
+  "name": "journals",
+  "description": "Weekly NoteとMonthly Noteのサマリー生成用コマンド群",
+  "version": "1.0.0",
+  "author": {
+    "name": "ukstudio"
+  }
+}

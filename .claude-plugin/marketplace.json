@@ -18,6 +18,11 @@
       "name": "rails",
       "source": "./rails",
       "description": "Rails開発用コマンド群"
+    },
+    {
+      "name": "journals",
+      "source": "./journals",
+      "description": "Weekly NoteとMonthly Noteのサマリー生成用コマンド群"
     }
   ]
 }
